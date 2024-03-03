@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-UK"
+title                    : "Dr. Conor O'Driscoll"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Conor O'Driscoll"
+description              : &description "I am an Assistant Professor in Economic Geography. I am based in the University of Groningen's Faculty of Spatial Sciences and my main research interests include urban economics, economic geography, regional studies, and transportation science. I am partial toward quantitative spatial analysis which employs advanced econometric techniques (R, STATA, and QGIS)."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
