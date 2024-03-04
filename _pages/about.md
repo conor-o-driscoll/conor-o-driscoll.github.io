@@ -11,7 +11,7 @@ About Me
 ======
 Hi there!
 
-My name is Conor. I recieved my PhD (in Economics) from University College Cork, Ireland, where I was based in the [Spatial and Regional Economic Research Centre (SRERC)](https://www.ucc.ie/en/srerc/).
+My name is Conor. I recieved my PhD (Economics) from University College Cork, Ireland, where I was based in the [Spatial and Regional Economic Research Centre (SRERC)](https://www.ucc.ie/en/srerc/) between 2020-2023.
 
 I am now an [Assistant Professor](https://www.rug.nl/staff/c.odriscoll/?lang=en) in the University of Groningen's [Faculty of Spatial Sciences](https://www.rug.nl/frw/?lang=en). My main areas of interest include: Urban Economics, Regional Science, and Economic Geography, while I possess technical expertise in Applied Econometrics, Network Analysis, and Quantitative Geography using R, STATA, and GIS.
 
