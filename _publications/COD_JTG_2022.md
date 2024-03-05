@@ -1,8 +1,8 @@
 ---
 title: "Retail sprawl and CO2 emissions: Retail centres in Irish cities"
 collection: publications
-permalink: /publications/COD_JTG_2022
-excerpt: 'This paper uses fine-grain spatial data and individual-level census data to examine how location-effects influence transport-related emissions and travel mode choice when shopping in Ireland's five major city regions vis-a-vis Origin-Destination network analysis.'
+permalink: /publication/COD_JTG_2022
+excerpt: 'This paper uses fine-grain spatial data and individual-level census data to examine how location-effects influence transport-related emissions and travel mode choice when shopping in Ireland's five major city regions using Origin-Destination network analysis.'
 date: 2022-06-01
 venue: 'Journal of Transport Geography'
 paperurl: 'https://doi.org/10.1016/j.jtrangeo.2022.103376'
