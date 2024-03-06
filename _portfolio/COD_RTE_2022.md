@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 4"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "The Links Between Where We Live and How We Commute"
+excerpt: "This piece illustrates the main findings from my ongoing research about the relationships between local built environments and commuting behaviours. It emphasizes that research such as this can positively contribute to pressing policymaking missions concerned reducing the environmental damage attributable to human activity. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
