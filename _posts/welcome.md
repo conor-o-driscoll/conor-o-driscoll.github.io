@@ -1,6 +1,6 @@
 ---
 title: 'Welcome to the site'
-date: 2024-03-10
+date: 2024-03-08
 permalink: /posts/2024/03/welcome
 tags:
   - Introduction
