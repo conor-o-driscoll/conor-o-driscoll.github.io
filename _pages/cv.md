@@ -11,4 +11,4 @@ redirect_from:
 
 <embed src="https://conor-o-driscoll.github.io/files/Conors_Academic_CV.pdf" type="application/pdf" />
 
-<object data="Conors_Academic_CV.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="Conors_Academic_CV.pdf" width="1000" height="2000" type='application/pdf'/>
