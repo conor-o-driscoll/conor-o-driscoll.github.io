@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/writing_university.md
 venue: "University College Cork"
-date: 01-05-2022
+date: 2022-05-01
 location: "Cork, Ireland"
 ---
 
