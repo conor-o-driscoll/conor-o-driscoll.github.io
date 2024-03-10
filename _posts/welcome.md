@@ -1,7 +1,7 @@
 ---
 title: 'Welcome to the site'
 date: 2024-03-08
-permalink: /posts/2024/03/welcome
+permalink: /posts/welcome
 tags:
   - Introduction
   - Website
