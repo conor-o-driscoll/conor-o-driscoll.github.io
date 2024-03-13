@@ -16,6 +16,11 @@ These courses start with the study of the economy as a whole, focusing on aggreg
 
 The role of government in influencing economic outcomes is also explored here. Topics such as fiscal policy, monetary policy, and the role of central banks will be discussed, along with the challenges and trade-offs involved in implementing macroeconomic policies. This provides students with opportunities to apply theoretical concepts to analyze current economic events and policy debates, enhancing their critical thinking and analytical skills.
 
+In University College Cork, I have been involved in the following courses which fit this description in different capacities:
+1. EC1116 (Introductory Macroeconomics)
+2. EC1208 (Principles of the Macro Economy)
+3. EC1503 (Economic Analysis for Food Business)
+
 Intermediate Macroeconomics
 ======
 
