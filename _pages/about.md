@@ -19,7 +19,7 @@ In my free time, I like to run, play chess, cook, and read. I am an avid Track a
 
 Selected Highlights and News
 ======
-If you are new to the website, [this blog post](/2024-03-08-welcome.md) sets the scene.
+If you are new to the website, [this blog post](/posts/2024/03/08/welcome/) sets the scene.
 
 Links to papers, blogs, news articles of interest
 
