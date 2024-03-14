@@ -38,4 +38,10 @@ In University College Cork, I have been involved in the following courses which 
 
 Recommended Readings and Literature
 ======
-Recommended readings and literature lists will be made available soon.
+1. _Macroeconomics_ by Daron Acemoglu, David Laibson, and John A. List
+2. _The Great Economists: How Their Ideas Can Help Us Today_ by Linda Yueh
+3. _The Price of Inequality_ by Joseph Stiglitz
+4. _Doughnut Economics_ by Kate Raworth
+5. _Good Economics For Hard Times: Better Answers To Our Biggest Problems_ by Abhijit V. Banergee and Esther Duflo
+6. _Poor Economics_ by Abhijit V. Banergee
+
