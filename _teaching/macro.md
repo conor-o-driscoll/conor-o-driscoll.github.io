@@ -20,9 +20,22 @@ In University College Cork, I have been involved in the following courses which 
 1. EC1116 (Introductory Macroeconomics)
 2. EC1208 (Principles of the Macro Economy)
 3. EC1503 (Economic Analysis for Food Business)
+4. EC1122 (Markets, Governments and the Economics of Social Issues)
 
 Intermediate Macroeconomics
 ======
+These courses build upon the work done in introductory modules by focusing on specific themes and issues within macroeconomics. Themes centre around "development" and topics studied include human capital, inequality, money and monetary policy, alongside national and international economic variables which affect business performance. 
+
+Some of these courses then pivot to focus on social issues and policy, thereby requiring detailed analysis of issues like healthcare, pensions, and the welfare state, while some of these courses focus on financial markets. An overarching theme in these courses, however, is the role of governmental intervention in the economy alongside how Ireland is situated in the global macroeconomic environment. This provides students with opportunities to apply theoretical concepts to analyze current economic events and policy debates, enhancing their critical thinking and analytical skills.
+
+In University College Cork, I have been involved in the following courses which fit this description in different capacities:
+1. EC2010 (The Changing Economy: Money and Monetary Policy)
+2. EC2112 (Macroeconomics: Irish and International Business Cycles)
+3. EC2151 (Economics of Social Policy 1)
+4. EC2220 (Microeconomics and Macroeconomic Outcomes)
+5. EC2214 (The Macroeconomic Environment in a Global Context)
+6. EC3151 (Economics of Social Policy 2)
 
 Recommended Readings and Literature
 ======
+Recommended readings and literature lists will be made available soon.
