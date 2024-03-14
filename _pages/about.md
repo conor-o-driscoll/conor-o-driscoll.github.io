@@ -21,7 +21,7 @@ Selected Highlights and News
 ======
 If you are new to the website, [this blog post](/posts/2024/03/08/welcome/) sets the scene.
 
-Links to papers, blogs, news articles of interest
+Aside from this, major updates will be highlighted here, when appropriate. A comprehensive record of all my activities and materials can be found in the menus.
 
 
 
