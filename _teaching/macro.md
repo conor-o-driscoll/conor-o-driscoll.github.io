@@ -41,7 +41,8 @@ Recommended Readings and Literature
 1. _Macroeconomics_ by Daron Acemoglu, David Laibson, and John A. List
 2. _The Great Economists: How Their Ideas Can Help Us Today_ by Linda Yueh
 3. _The Price of Inequality_ by Joseph Stiglitz
-4. _Doughnut Economics_ by Kate Raworth
-5. _Good Economics For Hard Times: Better Answers To Our Biggest Problems_ by Abhijit V. Banergee and Esther Duflo
-6. _Poor Economics_ by Abhijit V. Banergee
+4. _Globalization and Its Discontents_ by Joseph Stiglitz
+5. _Doughnut Economics_ by Kate Raworth
+6. _Good Economics For Hard Times: Better Answers To Our Biggest Problems_ by Abhijit V. Banergee and Esther Duflo
+7. _Poor Economics_ by Abhijit V. Banergee
 
