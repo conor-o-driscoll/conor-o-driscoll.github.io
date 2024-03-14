@@ -50,7 +50,8 @@ The official course readings differ for each course. But I find the following to
 1. _Statistics: A Very Short Introduction_ by David J. Hand
 2. _Elementary Statistics For Geographers_ by James Burt, Gerald Barber, and David Rigby
 3. _Probability and Statistics For Economists_ by Bruce Hansen
-4. _Econometrics By Example_ by Damodar Gujarati
-5. _Introductory Econometrics: A Modern Approach_ by Jeffrey Wooldridge
-6. _Regression Models For Categorical Dependent Variables Using STATA_ by Scott Long and Jeremy Freese
-7. _Applied Statistics Using STATA: A Guide For The Social Sciences_ by Mehmet Mehmetoglu and Tor Georg Jakobson
+4. _Causal Inference: The Mixtape_ by Scott Cunningham
+5. _Econometrics By Example_ by Damodar Gujarati
+6. _Introductory Econometrics: A Modern Approach_ by Jeffrey Wooldridge
+7. _Regression Models For Categorical Dependent Variables Using STATA_ by Scott Long and Jeremy Freese
+8. _Applied Statistics Using STATA: A Guide For The Social Sciences_ by Mehmet Mehmetoglu and Tor Georg Jakobson
