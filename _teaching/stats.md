@@ -8,7 +8,7 @@ date: 2023-02-01
 location: "Cork, Ireland"
 ---
 
-This covers a series of courses I taught at University College Cork. The content relates to undergraduate statistics and econometrics, and was taught to students studying economics, finance, and commerce. Relevant materials can be made available upon request.
+This covers a series of courses I taught at University College Cork. The content relates to undergraduate statistics and econometrics, and was taught to students studying economics, finance, and commerce. Relevant materials can be made available upon request, but click the link in the title to see an overview of the course contents.
 
 Introductory Statistics
 ======
