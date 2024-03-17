@@ -1,7 +1,7 @@
 ---
 title: "Economic Geography: Theory and Application - RUG"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/ECOG_T&A
 venue: "University of Groningen, Faculty of Spatial Sciences, Department of Economic Geography"
 date: 2024-09-01
