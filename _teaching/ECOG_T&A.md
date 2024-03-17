@@ -1,5 +1,5 @@
 ---
-title: "GESTAT2 - RUG"
+title: "Economic Geography: Theory and Application - RUG"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/ECOG_T&A
