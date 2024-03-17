@@ -8,7 +8,7 @@ date: 2022-09-1
 location: "Cork, Ireland"
 ---
 
-This covers a series of courses I taught at University College Cork. The content relates to undergraduate microeconomics, and was taught to students studying economics, finance, and commerce. Relevant materials will be made available soon.
+This covers a series of courses I taught at University College Cork. The content relates to undergraduate microeconomics, and was taught to students studying economics, finance, and commerce. Relevant materials can be made available upon request, but click the link in the title to see an overview of the course contents.
 
 Introductory Microeconomics
 ======
@@ -38,5 +38,8 @@ In University College Cork, I have been involved in the following courses which 
 Recommended Readings and Literature
 ======
 1. _Microeconomics_ by N. Gregory Mankiw and Mark P. Taylor
-2. _Microeconomic Theory_ by Andreu Mas-Collel, Michael Whinston, and Jerry Green
-3. _The Great Economists: How Their Ideas Can Help Us Today_ by Linda Yueh
+2. _Microeconomic Foundations I: Choice and Competitive Markets_ by David M. Kreps
+3. _Microeconomic Foundations II: Imperfect Competition, Information, and Strategic Interaction_ by David M. Kreps
+4. _Chicago Price Theory_ by Sonia Jaffe, Robert Minton, Casey B. Mulligan, and Kevin M. Murphy
+5. _Microeconomic Theory_ by Andreu Mas-Collel, Michael Whinston, and Jerry Green
+6. _The Great Economists: How Their Ideas Can Help Us Today_ by Linda Yueh
