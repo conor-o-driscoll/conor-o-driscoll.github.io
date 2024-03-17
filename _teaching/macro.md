@@ -8,7 +8,7 @@ date: 2023-02-1
 location: "Cork, Ireland"
 ---
 
-This covers a series of courses I taught at University College Cork. The content relates to undergraduate macroeconomics, and was taught to students studying economics, finance, and commerce. Relevant materials will be made available soon.
+This covers a series of courses I taught at University College Cork. The content relates to undergraduate macroeconomics, and was taught to students studying economics, finance, and commerce. Relevant materials can be made available upon request, but click the link in the title to see an overview of the course contents.
 
 Introductory Macroeconomics
 ======
@@ -45,4 +45,5 @@ Recommended Readings and Literature
 5. _Doughnut Economics_ by Kate Raworth
 6. _Good Economics For Hard Times: Better Answers To Our Biggest Problems_ by Abhijit V. Banergee and Esther Duflo
 7. _Poor Economics_ by Abhijit V. Banergee
+8. _The Women Who Made Modern Economics_ by Rachel Reeves
 
