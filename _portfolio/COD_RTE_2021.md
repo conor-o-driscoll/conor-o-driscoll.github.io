@@ -4,4 +4,4 @@ excerpt: "[This short piece](https://www.rte.ie/brainstorm/2021/1005/1250821-car
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
