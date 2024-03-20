@@ -1,7 +1,7 @@
 ---
 title: "Regional Studies Association (Irish Section) Workshop on Transportation Issues in Ireland"
 collection: talks
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: /talks/RSA_transireland
 venue: "University College Cork"
 date: 2024-03-15
