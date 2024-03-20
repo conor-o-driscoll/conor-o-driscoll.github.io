@@ -1,7 +1,7 @@
 ---
 title: "Writing and Research in University"
 collection: talks
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: /talks/writing_university.md
 venue: "University College Cork"
 date: 2022-05-01
