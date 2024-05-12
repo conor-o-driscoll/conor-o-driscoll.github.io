@@ -13,4 +13,4 @@ redirect_from:
 
 <object data="Conors_Academic_CV.pdf" width="1000" height="1000" type='application/pdf'/>
 
-Mobile users can access my CV here: https://drive.google.com/file/d/1gZgIXRzbPAYae-JlyCwOL7IR-5b8ysx1/view?usp=drive_link
+Mobile users can access my CV here: <embed src="https://drive.google.com/file/d/1gZgIXRzbPAYae-JlyCwOL7IR-5b8ysx1/view?usp=drive_link" />
