@@ -1,12 +1,12 @@
 ---
-title: "Assessing modal tradeoffs and associated built environment characteristics using a cost-distance framework"
+title: "Test"
 collection: publications
-permalink: /publication/COD_JTG_2024
-excerpt: 'This paper uses cost-distance ratios and random forest modelling to measure the mobility costs associated with different transportation modes when commuting in the Dublin metropolitan areas.'
-date: 2024-05-12
-venue: 'Journal of Trasnport Geography'
-paperurl: 'https://doi.org/10.1016/j.jtrangeo.2024.103870'
-citation: 'Kevin Credit and Conor O'Driscoll. 2024. Assessing modal tradeoffs and associated built environment characteristics using a cost-distance framework. Journal of Transport Geography, 1-19.'
+permalink: /publication/COD_RS_2023
+excerpt: 'This paper uses Generalised Structural Equation Modelling, fine-grain spatial data, and individual-level census data to explore the determinants of travel mode choices.'
+date: 2024-05-01
+venue: 'Regional Studies'
+paperurl: 'https://doi.org/10.1080/00343404.2023.2199779'
+citation: 'Conor O’Driscoll, Frank Crowley, Justin Doran & Nóirín McCarthy. 2023. How the relationship between socio-demographics, residential environments and travel influence commuter choices. Regional Studies, 58:3, 636-653.'
 ---
 
 Please see the recommended citation for this piece below.
