@@ -1,0 +1,29 @@
+---
+title: "Projects"
+subtitle: "Research and Data Science Projects"
+listing:
+  contents: projects
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, description, date]
+page-layout: full
+---
+
+## My Projects
+
+This page will showcase your research projects, data science work, and other professional accomplishments.
+
+To add projects, create a `projects` directory and add `.qmd` files for each project with the following YAML front matter:
+
+```yaml
+---
+title: "Project Title"
+description: "Brief description of the project"
+date: "2024-01-01"
+---
+```
+
+You can also add project details, visualizations, and analysis directly in the project `.qmd` files using R code chunks.

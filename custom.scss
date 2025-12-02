@@ -1,0 +1,51 @@
+/*-- scss:defaults --*/
+
+// Colors
+$primary: #2780e3 !default;
+$secondary: #6c757d !default;
+$body-bg: #ffffff !default;
+$body-color: #212529 !default;
+
+// Typography
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$font-size-base: 1.1rem !default;
+$line-height-base: 1.7 !default;
+
+// Navbar
+$navbar-bg: $primary !default;
+$navbar-fg: #ffffff !default;
+
+/*-- scss:rules --*/
+
+// Hero section styling
+#hero-heading {
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+// About links
+.about-links {
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.about-links:hover {
+  text-decoration: underline;
+}
+
+// Listing pages
+.listing-item {
+  margin-bottom: 2em;
+}
+
+// Page layout
+.page-layout-full {
+  max-width: 100%;
+}
+
+// Responsive design
+@media (max-width: 768px) {
+  #hero-heading {
+    font-size: 1em;
+  }
+}

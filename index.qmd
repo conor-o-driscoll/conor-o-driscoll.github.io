@@ -1,0 +1,32 @@
+---
+title: "Conor O'Driscoll, PhD"
+pagetitle: "Conor O'Driscoll"
+subtitle: "Researcher and Data Scientist"
+about:
+  template: solana
+  image-width: 20em
+  id: hero-heading
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/conor-o-driscoll
+    - icon: linkedin
+      text: LinkedIn
+      href: "#"
+    - icon: envelope
+      text: Email
+      href: contact.qmd
+page-layout: full
+execute:
+  freeze: false
+  echo: false
+  warning: false
+---
+
+::: {#hero-heading}
+
+Welcome to my personal website. I am a researcher and data scientist with expertise in data analysis and statistical modeling.
+
+[Learn more about me →](/about.qmd){.about-links .subtitle}
+
+:::
