@@ -1,0 +1,39 @@
+---
+title: "Welcome to My Blog"
+description: "This is my first blog post. More content coming soon!"
+date: "2024-12-01"
+categories: [news, introduction]
+---
+
+## Welcome!
+
+This is a sample blog post. You can write content using Markdown and include R code chunks for data analysis and visualization.
+
+### Adding R Code
+
+Once you have R packages installed, you can add R code chunks like this:
+
+````markdown
+```{r}
+#| echo: true
+# Simple R calculation
+x <- 1:10
+mean(x)
+```
+````
+
+### Adding Plots
+
+You can also include visualizations using R:
+
+````markdown
+```{r}
+#| echo: true
+library(ggplot2)
+ggplot(mtcars, aes(x = wt, y = mpg)) + geom_point()
+```
+````
+
+## Next Steps
+
+Feel free to create your own blog posts by adding new folders in the `posts/` directory!

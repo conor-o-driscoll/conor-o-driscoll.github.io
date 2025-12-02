@@ -1,0 +1,48 @@
+---
+title: "About Me"
+subtitle: "Background and Interests"
+about:
+  template: trestles
+  image-width: 12em
+  id: hero-heading
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/conor-o-driscoll
+    - icon: linkedin
+      text: LinkedIn
+      href: "#"
+    - icon: envelope
+      text: Email
+      href: contact.qmd
+---
+
+::: {#hero-heading}
+
+## Welcome
+
+Thanks for visiting my website!
+
+I am Dr. Conor O'Driscoll, a researcher with interests in data science and statistical analysis.
+
+:::
+
+## Background
+
+This section can include information about your educational background, professional experience, and research interests.
+
+### Education
+
+- **Ph.D.** - [Your Institution]
+- **M.S.** - [Your Institution]
+- **B.S.** - [Your Institution]
+
+### Research Interests
+
+- Data Science
+- Statistical Modeling
+- Research Methods
+
+## Current Work
+
+Information about your current position and ongoing projects can be added here.

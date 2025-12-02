@@ -1,0 +1,26 @@
+---
+title: "Contact"
+subtitle: "Get in Touch"
+---
+
+## Get in Touch
+
+I'd love to hear from you! Please feel free to reach out through any of the following channels:
+
+### Email
+
+You can email me at: [your.email@example.com](mailto:your.email@example.com)
+
+### Social Media
+
+- **GitHub**: [github.com/conor-o-driscoll](https://github.com/conor-o-driscoll)
+- **LinkedIn**: [Add your LinkedIn profile]
+- **Twitter/X**: [Add your Twitter handle]
+
+### Collaboration
+
+I'm always interested in discussing research collaborations, data science projects, or consulting opportunities. Don't hesitate to reach out!
+
+---
+
+*This page can be customized with a contact form or other preferred methods of communication.*

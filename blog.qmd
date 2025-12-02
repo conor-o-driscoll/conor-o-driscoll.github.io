@@ -1,0 +1,36 @@
+---
+title: "Blog"
+subtitle: "Thoughts and Updates"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  fields: [date, title, description, categories]
+page-layout: full
+---
+
+## Blog Posts
+
+Welcome to my blog! Here I share thoughts on data science, research methods, and other topics of interest.
+
+To add blog posts, create a `posts` directory and add subdirectories for each post with an `index.qmd` file. For example:
+
+```
+posts/
+  2024-01-15-my-first-post/
+    index.qmd
+```
+
+Each post should have YAML front matter like:
+
+```yaml
+---
+title: "My First Blog Post"
+description: "A brief description of the post"
+date: "2024-01-15"
+categories: [R, data science]
+---
+```

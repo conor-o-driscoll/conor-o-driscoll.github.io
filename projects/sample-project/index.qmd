@@ -1,0 +1,47 @@
+---
+title: "Sample Data Analysis Project"
+description: "An example project demonstrating R-based analysis"
+date: "2024-11-15"
+---
+
+## Overview
+
+This is a sample project showcasing how to include data analysis work in your website.
+
+## Data Analysis
+
+Once you have R packages installed, you can add code like this:
+
+````markdown
+```{r}
+#| echo: true
+library(ggplot2)
+
+# Summary statistics
+summary(mtcars[, c("mpg", "hp", "wt")])
+```
+````
+
+## Visualization
+
+Here's an example of creating a visualization:
+
+````markdown
+```{r}
+#| echo: true
+library(ggplot2)
+
+# Create a scatter plot
+ggplot(mtcars, aes(x = wt, y = mpg, color = factor(cyl))) +
+  geom_point(size = 3) +
+  labs(title = "Fuel Efficiency vs. Weight",
+       x = "Weight (1000 lbs)",
+       y = "Miles per Gallon",
+       color = "Cylinders") +
+  theme_minimal()
+```
+````
+
+## Conclusion
+
+This demonstrates how you can integrate R code, analysis, and visualizations directly into your project pages.
