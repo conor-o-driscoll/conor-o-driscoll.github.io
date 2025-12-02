@@ -37,7 +37,20 @@ The rendered website will be in the `_site` directory.
 
 ### Publish to GitHub Pages
 
-To publish your website to GitHub Pages:
+#### Automatic Deployment (Recommended)
+
+The website is configured to automatically deploy to GitHub Pages when you push to the `main` branch. The GitHub Actions workflow will:
+1. Build the website using Quarto
+2. Deploy it to GitHub Pages
+
+To enable this:
+1. Go to your repository Settings → Pages
+2. Under "Source", select "GitHub Actions"
+3. Push your changes to the `main` branch
+
+#### Manual Deployment
+
+Alternatively, you can manually publish using:
 
 ```bash
 quarto publish gh-pages
